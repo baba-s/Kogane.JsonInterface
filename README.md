@@ -1,12 +1,12 @@
-# Uni Json Interface
+﻿# Uni Json Interface
 
 JsonUtility.ToJson を拡張メソッドで呼び出せるようにするインターフェイス  
 
 ## 使用例
 
 ```cs
+using Kogane;
 using System;
-using UniJsonInterface;
 using UnityEngine;
 
 [Serializable]
