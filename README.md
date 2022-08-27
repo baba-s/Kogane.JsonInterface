@@ -1,6 +1,6 @@
-﻿# Uni Json Interface
+﻿# Kogane Json Interface
 
-JsonUtility.ToJson を拡張メソッドで呼び出せるようにするインターフェイス  
+JsonUtility.ToJson を拡張メソッドで呼び出せるようにするインターフェイス
 
 ## 使用例
 
